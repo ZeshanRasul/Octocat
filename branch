@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch allows you create a parallel line of work in your existing repository which leaves your original workflow unaffected.  It creates an offshoot allowing you to experiment with and alter existing files while maintaining them in their original form in the master (original) branch.  
