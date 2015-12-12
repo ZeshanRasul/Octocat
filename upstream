@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+An upstream remote is used when working on a forked repository.  The users local repository will be connected to their forked repository with the origin remote.  The upstream remote connects the local repository to the original repository from which the fork was made.  This allows the user to keep their repository in sync with the upstream (original) repository.
